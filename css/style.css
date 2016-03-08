@@ -115,7 +115,7 @@ nav#menu li a:active, #desktop_menu li a:active {  }
 
 /* Three_box area CSS */
 
-.three_box {  }
+.three_box { background-color: crimson;  }
 
 .three_left {
 }
